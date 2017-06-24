@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/cook/blog/2015/10/10/sous_tools_3/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/cook/blog/2015/10/10/sous_tools_1/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
@@ -68,10 +73,6 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/cook/contact/</loc>
-  </url>
-  
-  <url>
     <loc>https://tbro28.github.io/cook/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
@@ -79,6 +80,12 @@
   
   <url>
     <loc>https://tbro28.github.io/cook/tags/cow/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/cook/tags/eggs/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -100,19 +107,13 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/cook/categories/pressure-cooking/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://tbro28.github.io/cook/tags/pressure-cooking/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/cook/categories/smoking/</loc>
+    <loc>https://tbro28.github.io/cook/categories/pressure-cooking/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -124,13 +125,19 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/cook/categories/sous-vide/</loc>
+    <loc>https://tbro28.github.io/cook/categories/smoking/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tbro28.github.io/cook/tags/sous-vide/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/cook/categories/sous-vide/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
