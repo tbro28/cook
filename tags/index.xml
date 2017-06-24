@@ -7,62 +7,125 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2016, Blog; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="https://tbro28.github.io/cook/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Go</title>
-      <link>https://tbro28.github.io/cook/tags/go/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      
-      <guid>https://tbro28.github.io/cook/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>https://tbro28.github.io/cook/tags/golang/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://tbro28.github.io/cook/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://tbro28.github.io/cook/tags/hugo/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://tbro28.github.io/cook/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>https://tbro28.github.io/cook/tags/ipsum/</link>
+      <title>Broccoli</title>
+      <link>https://tbro28.github.io/cook/tags/broccoli/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://tbro28.github.io/cook/tags/ipsum/</guid>
+      <guid>https://tbro28.github.io/cook/tags/broccoli/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Programming</title>
-      <link>https://tbro28.github.io/cook/tags/programming/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <title>Carrots</title>
+      <link>https://tbro28.github.io/cook/tags/carrots/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://tbro28.github.io/cook/tags/programming/</guid>
+      <guid>https://tbro28.github.io/cook/tags/carrots/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Theme</title>
-      <link>https://tbro28.github.io/cook/tags/theme/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <title>Cauliflower</title>
+      <link>https://tbro28.github.io/cook/tags/cauliflower/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://tbro28.github.io/cook/tags/theme/</guid>
+      <guid>https://tbro28.github.io/cook/tags/cauliflower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chicken</title>
+      <link>https://tbro28.github.io/cook/tags/chicken/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/tags/chicken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cow</title>
+      <link>https://tbro28.github.io/cook/tags/cow/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/tags/cow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meat</title>
+      <link>https://tbro28.github.io/cook/tags/meat/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/tags/meat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pig</title>
+      <link>https://tbro28.github.io/cook/tags/pig/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/tags/pig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pressure Cooking</title>
+      <link>https://tbro28.github.io/cook/tags/pressure-cooking/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/tags/pressure-cooking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smoking</title>
+      <link>https://tbro28.github.io/cook/tags/smoking/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/tags/smoking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sous Vide</title>
+      <link>https://tbro28.github.io/cook/tags/sous-vide/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/tags/sous-vide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sous Vide Tools</title>
+      <link>https://tbro28.github.io/cook/tags/sous-vide-tools/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/tags/sous-vide-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tricks</title>
+      <link>https://tbro28.github.io/cook/tags/tricks/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/tags/tricks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vegetables</title>
+      <link>https://tbro28.github.io/cook/tags/vegetables/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/tags/vegetables/</guid>
       <description></description>
     </item>
     
