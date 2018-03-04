@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Potatoes on Cooking</title>
+    <link>https://tbro28.github.io/cook/tags/potatoes/</link>
+    <description>Recent content in Potatoes on Cooking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://tbro28.github.io/cook/tags/potatoes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Baked Potatoes</title>
+      <link>https://tbro28.github.io/cook/blog/2015/10/10/pressure_baked_potatoes/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/blog/2015/10/10/pressure_baked_potatoes/</guid>
+      <description>Ingredients Russet pototoes
+1 cup of water
+Instructions Poke holes in the potatoes. 20 minutes on high with a quick release.
+Notes It came out tender, but had split.</description>
+    </item>
+    
+  </channel>
+</rss>

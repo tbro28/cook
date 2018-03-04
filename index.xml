@@ -6,11 +6,36 @@
     <description>Recent content on Cooking</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2015 - 2016, Blog; all rights reserved.</copyright>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="https://tbro28.github.io/cook/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Baked Potatoes</title>
+      <link>https://tbro28.github.io/cook/blog/2015/10/10/pressure_baked_potatoes/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/blog/2015/10/10/pressure_baked_potatoes/</guid>
+      <description>Ingredients Russet pototoes
+1 cup of water
+Instructions Poke holes in the potatoes. 20 minutes on high with a quick release.
+Notes It came out tender, but had split.</description>
+    </item>
+    
+    <item>
+      <title>Broccoli, Cauliflower, Carrots</title>
+      <link>https://tbro28.github.io/cook/blog/2015/10/10/pressure_fresh_veggies/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/blog/2015/10/10/pressure_fresh_veggies/</guid>
+      <description>Ingredients Broccoli, Cauliflower, Carrots
+1 cup of water
+Instructions Zero minutes on high with a quick release.
+Notes Came out tender, but not mushy.
+
+* Photo</description>
+    </item>
     
     <item>
       <title>Broccoli, Cauliflower, Carrots</title>
@@ -32,11 +57,7 @@ Waiting even one minute makes the vegtables soft.
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
       <guid>https://tbro28.github.io/cook/blog/2015/10/10/sous_4/</guid>
-      <description> Frozen burgers at 147 for 60 minutes Did the 147 degree for 60 minutes recipe.
-The patties were frozen and over an inch thick, so I left it in for an hour.
-Then grilled them on cast iron with butter to add a sear to them.
-Very good final result.
-* Article </description>
+      <description> Frozen burgers at 147 for 60 minutes Did the 147 degree for 60 minutes recipe. The patties were frozen and over an inch thick, so I left it in for an hour. Then grilled them on cast iron with butter to add a sear to them. Very good final result. * Article </description>
     </item>
     
     <item>
@@ -45,10 +66,7 @@ Very good final result.
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
       <guid>https://tbro28.github.io/cook/blog/2015/10/10/sous_3/</guid>
-      <description>Chicken breasts at 158 for 2 hours Recently cooked refrigerated chicken breasts at 158 degrees for 2 hours.
-It came out fantastically moist and delicious.
-Definitely one of the first major wins in my early sous vide journey.
-* Article * Photo</description>
+      <description>Chicken breasts at 158 for 2 hours Recently cooked refrigerated chicken breasts at 158 degrees for 2 hours. It came out fantastically moist and delicious. Definitely one of the first major wins in my early sous vide journey. * Article * Photo</description>
     </item>
     
     <item>
@@ -57,9 +75,7 @@ Definitely one of the first major wins in my early sous vide journey.
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
       <guid>https://tbro28.github.io/cook/blog/2015/10/10/sous_2/</guid>
-      <description> Eggs at 167 for 13 minutes Did the 167 degree for 13 minutes recipe.
-The egg came out still having white as runny on the outside, which made it easy to break and get out.
-* Article </description>
+      <description> Eggs at 167 for 13 minutes Did the 167 degree for 13 minutes recipe. The egg came out still having white as runny on the outside, which made it easy to break and get out. * Article </description>
     </item>
     
     <item>
@@ -68,9 +84,36 @@ The egg came out still having white as runny on the outside, which made it easy 
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
       <guid>https://tbro28.github.io/cook/blog/2015/10/10/pressure_fresh_chicken/</guid>
-      <description>Fresh Chicken 1 cup of water with a chicken stock packet (from Trade Joes) and set it to 4 minutes on high.
-Do a natural release for 8 minutes.
-It came out tender with internal temps ranging from the 180s to 190s.</description>
+      <description>Ingredients Chicken
+1 cup of water
+A packet of Trade Joes chicken stock
+Instructions 4 minutes on high with a natural release for 8 minutes.
+Notes It came out tender with internal temps ranging from the 180s to 190s.</description>
+    </item>
+    
+    <item>
+      <title>Fresh Shredded Chicken</title>
+      <link>https://tbro28.github.io/cook/blog/2015/10/10/pressure_fresh_shredded_chicken/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/blog/2015/10/10/pressure_fresh_shredded_chicken/</guid>
+      <description>Ingredients Fresh Chicken (not frozen)
+1 cup of water
+A packet of Trade Joes chicken stock
+Instructions 20 minutes on high with a quick release.
+Notes All chicken was over 200 degrees and very easy to shred.</description>
+    </item>
+    
+    <item>
+      <title>Frozen Broccoli</title>
+      <link>https://tbro28.github.io/cook/blog/2015/10/10/pressure_frozen_broccoli/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/blog/2015/10/10/pressure_frozen_broccoli/</guid>
+      <description>Ingredients Bag of frozen broccoli
+1 cup of water
+Instructions 1 minute on high with a quick release.
+Notes Came out tender, but not mushy.</description>
     </item>
     
     <item>
@@ -87,6 +130,19 @@ It came out tender, but I still plan to play with the times a bit in the future.
     
     <item>
       <title>Frozen Ground Beef</title>
+      <link>https://tbro28.github.io/cook/blog/2015/10/10/pressure_frozen_ground_beef/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/blog/2015/10/10/pressure_frozen_ground_beef/</guid>
+      <description>Ingredients Frozen ground beef
+1 cup of water
+Instructions 25 minutes on high with a quick release.
+Notes Also added onions, garlic, and taco seasoning. Add the onions, garlic, and seasoning after the initial pressure cooking (or they turn to liquid and burn to the bottom; see pic 2!).
+Want to alter this to 1&amp;frasl;2 cup of water, because the ground beef released a lot of liquid that took a while to cook down.</description>
+    </item>
+    
+    <item>
+      <title>Frozen Ground Beef</title>
       <link>https://tbro28.github.io/cook/blog/2015/10/10/pressure_frozenbeef/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
@@ -98,19 +154,34 @@ Would alter this to 1&amp;frasl;2 cup of water, plus add the onions, garlic, and
     </item>
     
     <item>
+      <title>Frozen Shredded Chicken</title>
+      <link>https://tbro28.github.io/cook/blog/2015/10/10/pressure_frozen_shredded_chicken/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/blog/2015/10/10/pressure_frozen_shredded_chicken/</guid>
+      <description>Ingredients Chicken
+1 cup of water
+A packet of Trade Joes chicken stock
+Instructions 25 minutes on high with a quick release.
+Notes All chicken was over 200 degrees and very easy to shred.</description>
+    </item>
+    
+    <item>
       <title>Garlic Cauliflower Mash</title>
       <link>https://tbro28.github.io/cook/blog/2015/10/10/pressure_caulimash/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
       <guid>https://tbro28.github.io/cook/blog/2015/10/10/pressure_caulimash/</guid>
-      <description>Garlic Cauliflower Mash Bag of cauliflower florets from Costco.
+      <description>Ingredients Bag of cauliflower florets.
+1 cup of water.
 2.5 TBSPs of butter.
-6 cloves of garlic (I&amp;rsquo;d use 4 next time at the max).
+4 cloves of garlic.
 Salt, Pepper, and Paprika.
 1/4th cup 2% milk (would be richer with half and half or whole milk).
-Cooked the cauliflower on high for 5 minutes with a quick release.
-During that I sautéed the garlic.
-Then after the cauliflower is done, dump it all into a blender and blend.</description>
+Instructions Add cauliflower and water into the Instant Pot.
+5 minutes on high with a quick release.
+While waiting sauté the garlic.
+After the cauliflower is done, dump it all into a blender and blend.</description>
     </item>
     
     <item>
@@ -119,24 +190,16 @@ Then after the cauliflower is done, dump it all into a blender and blend.</descr
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
       <guid>https://tbro28.github.io/cook/blog/2015/10/10/sous_5/</guid>
-      <description>Cooking pork chops and finished in bacon grease in cast iron Used the Joule to cook fresh bone-on pork chops at at 140 degrees for 1 hour.
-While that was cooking I cooked 8 strips of bacon in a cast iron skillet.
-After the pork chops were done I browned the pork chops in the left over bacon grease. Why not?</description>
+      <description> Cooking pork chops and finished in bacon grease in cast iron Used the Joule to cook fresh bone-on pork chops at at 140 degrees for 1 hour. </description>
     </item>
     
     <item>
-      <title>Ribs</title>
+      <title>Ribs 3-2-1 Method</title>
       <link>https://tbro28.github.io/cook/blog/2015/10/10/smoke_1/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
       <guid>https://tbro28.github.io/cook/blog/2015/10/10/smoke_1/</guid>
-      <description>Ribs 3-2-1 Method Came out tender, but not fall off the bone.
-Basically, followed various sites and books; there isn&amp;rsquo;t a lot to the basic process.
-Removed the membrane and used a rib rub.
-Place ribs in smoker at 225 degrees F for three hours.
-Wrap ribs tightly in foil and smoke for 2 hours.
-Take foil off and return to smoker bone side down for 1 hour.
-Apply sauce to ribs during the last 30 minutes of cooking time.</description>
+      <description>Ribs 3-2-1 Method Came out tender, but not fall off the bone. Basically, followed various sites and books; there isn&amp;rsquo;t a lot to the basic process. Removed the membrane and used a rib rub. Place ribs in smoker at 225 degrees F for three hours. Wrap ribs tightly in foil and smoke for 2 hours. Take foil off and return to smoker bone side down for 1 hour. Apply sauce to ribs during the last 30 minutes of cooking time.</description>
     </item>
     
     <item>
@@ -156,10 +219,7 @@ I may just be used to over cooked fish though :)</description>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
       <guid>https://tbro28.github.io/cook/blog/2015/10/10/sous_tools_2/</guid>
-      <description>Cast Iron For Searing Bought two cast iron skillets to sear.
-These both are made by Lodge and heavy.
-I seasoned them three times at 400 degrees for an hour each time.
-* Photo</description>
+      <description>Cast Iron For Searing Bought two cast iron skillets to sear. These both are made by Lodge and heavy. I seasoned them three times at 400 degrees for an hour each time. * Photo</description>
     </item>
     
     <item>
@@ -168,16 +228,11 @@ I seasoned them three times at 400 degrees for an hour each time.
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
       <guid>https://tbro28.github.io/cook/blog/2015/10/10/sous_tools_3/</guid>
-      <description> Joule Cooker This in the only one I&amp;rsquo;ve ever owned, so I can&amp;rsquo;t commet on others.
-So far, so good though.
+      <description> Joule Cooker This in the only one I&amp;rsquo;ve ever owned, so I can&amp;rsquo;t commet on others. So far, so good though.
 Performance  1100 watts heating power
- Temperature accuracy
-0.2 °F / 0.1 °C
- Maximum water temperature
-208 °F (98 °C)
- Maximum bath volume
-10+ gallons
-Article   </description>
+ Temperature accuracy 0.2 °F / 0.1 °C
+ Maximum water temperature 208 °F (98 °C)
+ Maximum bath volume 10+ gallons Article   </description>
     </item>
     
     <item>
@@ -186,10 +241,7 @@ Article   </description>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
       <guid>https://tbro28.github.io/cook/blog/2015/10/10/sous_tools_1/</guid>
-      <description>Ping Pong Balls To Retain Heat Went to the Dollar Tree near my house and bought 8 packages of 6 balls.
-These trap the water from evaporating on long cooks.
-It has so far been extremely effective.
-* Photo</description>
+      <description>Ping Pong Balls To Retain Heat Went to the Dollar Tree near my house and bought 8 packages of 6 balls. These trap the water from evaporating on long cooks. It has so far been extremely effective. * Photo</description>
     </item>
     
     <item>
@@ -198,9 +250,7 @@ It has so far been extremely effective.
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
       <guid>https://tbro28.github.io/cook/blog/2015/10/10/sous_tools_4/</guid>
-      <description>Chainmail Scrubbers This thing works great on quickly cleaning stainless steel and cast iron.
-When cooking via sous vide, I also throw this on top of bags of food that want to float to keep them down.
-So far it has worked really well.</description>
+      <description> Chainmail Scrubbers This thing works great on quickly cleaning stainless steel and cast iron. </description>
     </item>
     
     <item>
@@ -209,12 +259,8 @@ So far it has worked really well.</description>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
       <guid>https://tbro28.github.io/cook/blog/2015/10/10/sous_1/</guid>
-      <description>Morton&amp;rsquo;s Tri-tip at 130 for 6 hours Came out extremely tender.
-7 hours might make it a little better in the middle.
-Cutting a 3.5 - 4 lb tri-tip in half also could help.
-Seared in a cast iron skillet with oil and butter.
-15 seconds per flip for two minutes.
-* Photo</description>
+      <description>Morton&amp;rsquo;s Tri-tip at 130 for 6 hours Came out extremely tender. 7 hours might make it a little better in the middle. Cutting a 3.5 - 4 lb tri-tip in half also could help.
+Seared in a cast iron skillet with oil and butter. 15 seconds per flip for two minutes. * Photo</description>
     </item>
     
     <item>

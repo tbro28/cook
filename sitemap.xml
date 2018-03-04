@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tbro28.github.io/cook/blog/2015/10/10/pressure_baked_potatoes/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/cook/blog/2015/10/10/pressure_fresh_veggies/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/cook/blog/2015/10/10/pressure_veggies/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
@@ -28,12 +38,32 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/cook/blog/2015/10/10/pressure_fresh_shredded_chicken/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/cook/blog/2015/10/10/pressure_frozen_broccoli/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/cook/blog/2015/10/10/pressure_frozen_chicken/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/cook/blog/2015/10/10/pressure_frozen_ground_beef/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/cook/blog/2015/10/10/pressure_frozenbeef/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/cook/blog/2015/10/10/pressure_frozen_shredded_chicken/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
@@ -80,6 +110,12 @@
   <url>
     <loc>https://tbro28.github.io/cook/blog/2015/10/10/sous_1/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/cook/tags/baked-potatoes/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -142,6 +178,12 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/cook/tags/cow/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/cook/tags/eggs/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
@@ -164,7 +206,13 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/cook/tags/pork/</loc>
+    <loc>https://tbro28.github.io/cook/tags/meat/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/cook/tags/pig/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -176,7 +224,7 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/cook/tags/pressure-cooking/</loc>
+    <loc>https://tbro28.github.io/cook/tags/potatoes/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -188,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/cook/tags/smoking/</loc>
+    <loc>https://tbro28.github.io/cook/tags/pressure-cooking/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -200,13 +248,19 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/cook/tags/sous-vide/</loc>
+    <loc>https://tbro28.github.io/cook/tags/smoking/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tbro28.github.io/cook/categories/sous-vide/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/cook/tags/sous-vide/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>

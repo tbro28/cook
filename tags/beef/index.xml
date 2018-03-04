@@ -6,7 +6,6 @@
     <description>Recent content in Beef on Cooking</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2015 - 2016, Blog; all rights reserved.</copyright>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="https://tbro28.github.io/cook/tags/beef/index.xml" rel="self" type="application/rss+xml" />
@@ -18,11 +17,20 @@
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
       <guid>https://tbro28.github.io/cook/blog/2015/10/10/sous_4/</guid>
-      <description> Frozen burgers at 147 for 60 minutes Did the 147 degree for 60 minutes recipe.
-The patties were frozen and over an inch thick, so I left it in for an hour.
-Then grilled them on cast iron with butter to add a sear to them.
-Very good final result.
-* Article </description>
+      <description> Frozen burgers at 147 for 60 minutes Did the 147 degree for 60 minutes recipe. The patties were frozen and over an inch thick, so I left it in for an hour. Then grilled them on cast iron with butter to add a sear to them. Very good final result. * Article </description>
+    </item>
+    
+    <item>
+      <title>Frozen Ground Beef</title>
+      <link>https://tbro28.github.io/cook/blog/2015/10/10/pressure_frozen_ground_beef/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/blog/2015/10/10/pressure_frozen_ground_beef/</guid>
+      <description>Ingredients Frozen ground beef
+1 cup of water
+Instructions 25 minutes on high with a quick release.
+Notes Also added onions, garlic, and taco seasoning. Add the onions, garlic, and seasoning after the initial pressure cooking (or they turn to liquid and burn to the bottom; see pic 2!).
+Want to alter this to 1&amp;frasl;2 cup of water, because the ground beef released a lot of liquid that took a while to cook down.</description>
     </item>
     
     <item>
@@ -35,20 +43,6 @@ Very good final result.
 1 cup of water and set it to 25 minutes with a quick release.
 Also added onions, garlic, and taco seasoning.
 Would alter this to 1&amp;frasl;2 cup of water, plus add the onions, garlic, and seasoning after the initial pressure cooking.</description>
-    </item>
-    
-    <item>
-      <title>Tri-Tip</title>
-      <link>https://tbro28.github.io/cook/blog/2015/10/10/sous_1/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
-      
-      <guid>https://tbro28.github.io/cook/blog/2015/10/10/sous_1/</guid>
-      <description>Morton&amp;rsquo;s Tri-tip at 130 for 6 hours Came out extremely tender.
-7 hours might make it a little better in the middle.
-Cutting a 3.5 - 4 lb tri-tip in half also could help.
-Seared in a cast iron skillet with oil and butter.
-15 seconds per flip for two minutes.
-* Photo</description>
     </item>
     
   </channel>

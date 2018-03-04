@@ -6,11 +6,19 @@
     <description>Recent content in Tags on Cooking</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2015 - 2016, Blog; all rights reserved.</copyright>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="https://tbro28.github.io/cook/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Baked Potatoes</title>
+      <link>https://tbro28.github.io/cook/tags/baked-potatoes/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/tags/baked-potatoes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Beef</title>
@@ -76,6 +84,15 @@
     </item>
     
     <item>
+      <title>Cow</title>
+      <link>https://tbro28.github.io/cook/tags/cow/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/tags/cow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Eggs</title>
       <link>https://tbro28.github.io/cook/tags/eggs/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
@@ -103,11 +120,20 @@
     </item>
     
     <item>
-      <title>Pork</title>
-      <link>https://tbro28.github.io/cook/tags/pork/</link>
+      <title>Meat</title>
+      <link>https://tbro28.github.io/cook/tags/meat/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://tbro28.github.io/cook/tags/pork/</guid>
+      <guid>https://tbro28.github.io/cook/tags/meat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pig</title>
+      <link>https://tbro28.github.io/cook/tags/pig/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/tags/pig/</guid>
       <description></description>
     </item>
     
@@ -117,6 +143,15 @@
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
       <guid>https://tbro28.github.io/cook/tags/pork-chops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potatoes</title>
+      <link>https://tbro28.github.io/cook/tags/potatoes/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/tags/potatoes/</guid>
       <description></description>
     </item>
     
