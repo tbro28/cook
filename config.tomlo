@@ -1,0 +1,11 @@
+baseURL = "https://tbro28.github.io/cook/"
+languageCode = "en-us"
+title = "My Cooking Attempts"
+newContentEditor = "nano"
+theme = "hugo-universal-theme"
+pygmentStyle = "native"
+
+[Params]
+Author = "Tim Brown"
+disqusShortname = "tbcook"
+
