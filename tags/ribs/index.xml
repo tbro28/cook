@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ribs on Cooking</title>
+    <link>https://tbro28.github.io/cook/tags/ribs/</link>
+    <description>Recent content in Ribs on Cooking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://tbro28.github.io/cook/tags/ribs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Baby Back Pork Ribs</title>
+      <link>https://tbro28.github.io/cook/blog/2015/10/10/sous_pork_baby_back_ribs/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/blog/2015/10/10/sous_pork_baby_back_ribs/</guid>
+      <description>Cooking baby back ribs Ingredients Fresh baby back ribs.
+Instructions 165 degrees for 12 hours.
+Added some chicken for the final 2 hours.
+Finished them by basting them with BBQ sauce and putting them in a 300 degree oven for 40 minutes. Brush the ribs with sauce after 20 minutes. Reapply more sauce after 10 additional minutes. Wait for a bark to form!
+Notes One more win.</description>
+    </item>
+    
+  </channel>
+</rss>
