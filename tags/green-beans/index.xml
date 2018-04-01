@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Green Beans on Cooking</title>
+    <link>https://tbro28.github.io/cook/tags/green-beans/</link>
+    <description>Recent content in Green Beans on Cooking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://tbro28.github.io/cook/tags/green-beans/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Frozen Green Beans</title>
+      <link>https://tbro28.github.io/cook/blog/2015/10/10/pressure_frozen_green_beans/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/blog/2015/10/10/pressure_frozen_green_beans/</guid>
+      <description>Ingredients Bag of frozen green beans
+1 cup of water
+Instructions Put as much as desired into the pot.
+Cook it for 1 minutes on low pressure with a quick release.
+Notes Comes out tender.
+I often mix in other vegetables and cook them for 2 minutes; it just makes them softer obviously :)</description>
+    </item>
+    
+  </channel>
+</rss>

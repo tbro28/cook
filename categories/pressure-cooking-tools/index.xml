@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pressure Cooking Tools on Cooking</title>
+    <link>https://tbro28.github.io/cook/categories/pressure-cooking-tools/</link>
+    <description>Recent content in Pressure Cooking Tools on Cooking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://tbro28.github.io/cook/categories/pressure-cooking-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pressure / Smoking Item: Claws</title>
+      <link>https://tbro28.github.io/cook/blog/2015/10/10/pressure_tools_claws/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/blog/2015/10/10/pressure_tools_claws/</guid>
+      <description>Claws to shred meat easily These things are great. I used a blender a couple of times to make shredded chicken (you can Google it), but it makes a mess. Little pieces always shot all over the place. These are fast and easy to clean.</description>
+    </item>
+    
+    <item>
+      <title>Pressure Cooking Item: Extra Pot</title>
+      <link>https://tbro28.github.io/cook/blog/2015/10/10/pressure_tools_extra_pot/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/blog/2015/10/10/pressure_tools_extra_pot/</guid>
+      <description>Extra Pot Having an extra pot speeds to cooking multiple items at a time.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,11 +11,29 @@
     
     
     <item>
-      <title>Pressure Cooking</title>
-      <link>https://tbro28.github.io/cook/categories/pressure-cooking/</link>
+      <title>Pressure Cooking Recipes</title>
+      <link>https://tbro28.github.io/cook/categories/pressure-cooking-recipes/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://tbro28.github.io/cook/categories/pressure-cooking/</guid>
+      <guid>https://tbro28.github.io/cook/categories/pressure-cooking-recipes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pressure Cooking Tools</title>
+      <link>https://tbro28.github.io/cook/categories/pressure-cooking-tools/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/categories/pressure-cooking-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sauces and Seasonings</title>
+      <link>https://tbro28.github.io/cook/categories/sauces-and-seasonings/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/categories/sauces-and-seasonings/</guid>
       <description></description>
     </item>
     
@@ -29,11 +47,47 @@
     </item>
     
     <item>
-      <title>Sous Vide</title>
-      <link>https://tbro28.github.io/cook/categories/sous-vide/</link>
+      <title>Sous Vide Recipes</title>
+      <link>https://tbro28.github.io/cook/categories/sous-vide-recipes/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://tbro28.github.io/cook/categories/sous-vide/</guid>
+      <guid>https://tbro28.github.io/cook/categories/sous-vide-recipes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sous Vide Tools</title>
+      <link>https://tbro28.github.io/cook/categories/sous-vide-tools/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/categories/sous-vide-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Other Cooking Recipes</title>
+      <link>https://tbro28.github.io/cook/categories/the-other-cooking-recipes/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/categories/the-other-cooking-recipes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Other Cooking Tools</title>
+      <link>https://tbro28.github.io/cook/categories/the-other-cooking-tools/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/categories/the-other-cooking-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Sites on Cooking</title>
+      <link>https://tbro28.github.io/cook/categories/the-sites-on-cooking/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://tbro28.github.io/cook/categories/the-sites-on-cooking/</guid>
       <description></description>
     </item>
     
