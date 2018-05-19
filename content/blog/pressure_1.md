@@ -19,7 +19,4 @@ Quick released after 1 minute.
 Came out tender, but not mushy.
 
 <br>
-<br>
 ![](/cook/img/banners/pressure1.png)
-<br>
-* [Photo](https://goo.gl/photos/xGQchTqUkqhDM7vcA)

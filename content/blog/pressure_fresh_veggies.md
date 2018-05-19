@@ -1,8 +1,8 @@
 +++
-title = "Broccoli, Cauliflower, Carrots"
+title = "Fresh Broccoli, Cauliflower, and Carrots"
 date = "2015-10-10T13:07:31+02:00"
 tags = ["pressure cooking", "vegetables", "Broccoli", "Cauliflower", "Carrots"]
-categories = ["Pressure cooking"]
+categories = ["Pressure cooking recipes"]
 banner = "img/banners/pressure1.png"
 +++
 

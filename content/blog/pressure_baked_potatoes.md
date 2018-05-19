@@ -2,12 +2,12 @@
 title = "Baked Potatoes"
 date = "2015-10-10T13:07:31+02:00"
 tags = ["pressure cooking", "Baked Potatoes", "Potatoes"]
-categories = ["Pressure cooking"]
+categories = ["Pressure cooking recipes"]
 banner = "img/banners/pressure_baked_potatoes.jpg"
 +++
 
 #### Ingredients
-Russet pototoes  
+Russet potatoes  
 1 cup of water  
 
 #### Instructions
