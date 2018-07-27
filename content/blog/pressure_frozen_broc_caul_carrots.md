@@ -11,13 +11,11 @@ Bag of frozen broccoli, cauliflower, and carrots
 1 cup of water  
 
 #### Instructions
-Put as much as desired into the pot.  
-Cook it for 2 minutes on low pressure with a quick release.  
+1. Add the veggies to the pot (put as much as desired).  
+* Cook it for 1 minute on low pressure with a quick release.  
+
 I use this bag from Costco most of the time  
-
-
+![](/cook/img/banners/pressure_frozen_broc_caul_carrots.jpg)  
+  
 #### Notes
-Comes out tender.  
-
-<br>
-![](/cook/img/banners/pressure_frozen_broc_caul_carrots.jpg)
+Anything more than 1 minute makes them mushy (and unappealing in my opinion).  

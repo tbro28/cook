@@ -1,5 +1,5 @@
 +++
-title = "Frozen Shredded Chicken"
+title = "Instant Pot Pressure Cooking Frozen Shredded Chicken"
 date = "2015-10-10T13:07:31+02:00"
 tags = ["pressure cooking", "chicken"]
 categories = ["Pressure cooking recipes"]

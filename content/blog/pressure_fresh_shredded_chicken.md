@@ -8,11 +8,11 @@ banner = "img/banners/pressure_fresh_shredded_chicken.jpg"
 
 #### Ingredients
 Fresh Chicken (not frozen)  
-1 cup of water  
-A packet of Trade Joes chicken stock  
+1 cup of chicken stock (or 1 cup of water with a packet of Trade Joes chicken stock)  
 
 #### Instructions
-20 minutes on high with a quick release.  
+1. Add everything into the pot.  
+* Cook it for 20 minutes on high with a quick release.  
 
 #### Notes
 All chicken was over 200 degrees and very easy to shred.

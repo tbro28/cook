@@ -16,7 +16,7 @@ Frozen ground beef
 
 #### Notes
 Frozon turkey also works great at 25 minutes.  
-The first time I also added onions, garlic, and taco seasoning at the beginning. Bad mistake!  
+The first time I was making taco meat, so I also added onions, garlic, and taco seasoning at the beginning. Bad mistake!  
 Add the onions, garlic, and seasoning after the initial pressure cooking (or they turn to liquid and burn to the bottom; see pic 2!).  
 Want to alter this to 1/2 cup of water, because the ground beef released a lot of liquid that took a while to cook down. Unless if 1/2 cup of water isn't enough to build up pressure. We'll see.
 <br>

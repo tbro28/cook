@@ -140,15 +140,17 @@ paginate = 4
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Food Quotes"
-    subtitle = "Just a few of the many, many, many more out there."
+    subtitle = "A few extra for Bourdain given his passing and appreciation for MMA.</br></br><a href=\"https://www.thrillist.com/culture/the-17-best-anthony-bourdain-quotes\" target=\"_blank\">'Basic cooking skills are a virtue... the ability to feed yourself and a few others with proficiency should be taught to every young man and woman as a fundamental skill. [It's] as vital to growing up as learning to wipe one's own a**, cross the street by oneself, or be trusted with money.'</a> - Anthony Bourdain </br></br><a href=\"https://www.telegraph.co.uk/travel/lists/anthony-bourdains-wisest-quotes-about-travel/\" target=\"_blank\">'I'm a big believer in winging it. I'm a big believer that you're never going to find perfect city travel experience or the perfect meal without a constant willingness to experience a bad one.'</a> - Anthony Bourdain"
 
+	
 [params.see_more]
     enable = false
     icon = "fa fa-file-code-o"
     title = "Do you want to see more?"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    #link_url = "#"
+	link_url = "https://www.thrillist.com/culture/the-17-best-anthony-bourdain-quotes"
+    link_text = "'Drink a cold beer and let somebody else figure it out': 22 of Anthony Bourdain’s wisest quotes"
 
 [params.clients]
     enable = false
